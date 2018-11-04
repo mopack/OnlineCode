@@ -677,6 +677,9 @@
   <ItemGroup>
     <None Include="LC121. Best Time to Buy and Sell Stock.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LeetCodeStd.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
