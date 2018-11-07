@@ -9,7 +9,7 @@ I use Leetcode and UVa Online Judge most. I've also used PKU JudgeOnline (北京
 
 ## Achievement
 
-* LeetCode: 458 solved.[Profile](https://leetcode.com/mopackp/)
+* LeetCode: 458 solved. [Profile](https://leetcode.com/mopackp/)
 
 * UVA(ACM): 81 solved. [Profile](https://uhunt.onlinejudge.org/id/33737)
 
