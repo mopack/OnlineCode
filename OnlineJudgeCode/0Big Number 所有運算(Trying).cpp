@@ -1,3 +1,14 @@
+//#include <bits/stdc++.h>
+////#include "LeetCodeStd.h"
+//// --------------- //
+////static int fast = []() {ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0); return 0; }();
+////class Solution {
+////public:
+////	vector<int> findOrder(int N, vector<pair<int, int>>& L2F) {
+////
+////	}
+////};
+
 //#include <iostream>
 //#include <cstdlib>
 //#include <bitset>

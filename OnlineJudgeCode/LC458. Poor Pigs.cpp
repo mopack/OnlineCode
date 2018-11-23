@@ -10,9 +10,11 @@
 //	int poorPigs(int n, int D, int T) {
 //		return ceil(log(n) / log(T / D + 1));
 //	}
-//}az;
+//};
 //
 //int main() {
+//	Solution az;
+//	cout << az.poorPigs(15, 4, 4);
 //	system("pause");
 //	return 0;
 //} 
